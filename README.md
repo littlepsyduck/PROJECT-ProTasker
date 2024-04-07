@@ -13,7 +13,7 @@ This ProTasker application will give you the ability to take notes on tasks to d
 
 ## Demo
 
-[Video demo](https://drive.google.com/file/d/1MD714LPaeXQI916r8vay2cOzOfkifnNl/view?usp=sharing)
+[Video demo](https://youtu.be/6x8AIYJMOJo)
 
 ## Screenshots
 
