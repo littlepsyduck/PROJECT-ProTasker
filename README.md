@@ -57,7 +57,7 @@ This ProTasker application will give you the ability to take notes on tasks to d
 
 ## Requirements
 
-- Java 11
+- Java 11 
 
 ## Installation
 
