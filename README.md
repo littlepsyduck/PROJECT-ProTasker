@@ -1,53 +1,72 @@
 
-# [Tên dự án]
+# PROTASKER
 
-[Mô tả dự án]
+## Intro
 
-Ví dụ: Dạo gần đây, bắt đầu rộ lên phong trào trồng cây xanh ở các thành phố lớn. Để giúp người dân dễ dàng theo dõi quá trình trồng cây, chúng tôi xây dựng ứng dụng "Trồng cây" giúp người dùng quản lý thông tin về cây cảnh của mình.
+> This project is the first final assignment of the Object-Oriented Programming course at [ProPTIT](https://proptit.com/).
 
-Ứng dụng cung cấp các giải pháp về việc chăm sóc cây cảnh, thông tin về cây cảnh, hướng dẫn cách trồng cây, ...
+Realize that the older you get, the more work you have to handle. That's why work management is so important.
 
+This ProTasker application will give you the ability to take notes on tasks to do as well as check and edit them.
 
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
+## Authors [Nguyễn Bá Việt Hoàng](https://github.com/littlepsyduck)
 
 ## Demo
 
-Link Video Demo
-
+[Video demo](https://drive.google.com/file/d/1MD714LPaeXQI916r8vay2cOzOfkifnNl/view?usp=sharing)
 
 ## Screenshots
 
-Ảnh
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+- Log In Screen
 
+![Log In Screen](DemoImage//LogInScreen.png)
+
+- Sign Up Screen
+
+![Sign Up Screen](DemoImage//SignUpScreen.png)
+
+- Daily Screen
+
+![Daily Screen](DemoImage//DailyScreen.png)
+
+![Daily Screen](DemoImage//DailyScreen2.png)
+
+![Daily Screen](DemoImage/DailyScreen3.png)
+
+- Everyday Screen
+
+![Everyday Screen](DemoImage//EverydayScreen.png)
+
+## UML
+
+- Class Diagram
+
+![Class Diagram](UML//ProTaskerClassDiagram.png)
+
+- Activity Diagram
+
+![Activity Diagram](UML//ProTaskerActivityDiagram.png)
 
 ## Features
 
-- Các chức năng chính của ứng dụng
-
+- Save tasks in individual txt files for each account
+- Create new tasks, edit, delete old tasks
+- View tasks by date
+- View all tasks
+- View statistics on the number of existing tasks, the number of completed tasks, and the number of urgent tasks
 
 ## Requirements
 
 - Java 11
-- Maven 3.6.3
-- ... (Tự sửa lại)
 
 ## Installation
 
-Cách cài đặt dự án
-
 ```bash
-  - Clone dự án
-  - Mở terminal và chạy lệnh: mvn clean install
-  - Chạy ứng dụng
-
-  - Down file jar từ ...
-  - Chạy file jar
+  - Setup JDK
+  - Clone this repository
+  - Open folder PROJECT ProTasker
+  - Run PROJECT ProTasker/src/application/Main.java
 ```
-    
 
 ## License
 
