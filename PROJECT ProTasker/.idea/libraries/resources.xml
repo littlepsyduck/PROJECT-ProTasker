@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="resources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/classes/resources/KGradientPanel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/resources/syntheticaSimple2D.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
