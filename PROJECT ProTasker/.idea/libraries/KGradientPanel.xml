@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KGradientPanel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/resources/KGradientPanel.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
